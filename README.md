@@ -1,5 +1,5 @@
 # Web-Hunter
-Advanced Web Application Penetration testing tool &amp; Wordpress name finder and brute forcer Termux & it also works in kali Linux🔥
+Advanced Web Application Penetration testing tool &amp; Wordpress name finder and brute forcer Termux & Kali Linux🔥
 <br>
 <b><i><h2>Features 💥</h2></i></b>
 <li><b>DNS Lookup,Reverse IP Lookup,Zone Transfer,Subnet
