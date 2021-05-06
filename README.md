@@ -16,10 +16,10 @@ Advanced Web Application Penetration testing tool &amp; Wordpress name finder an
 ```
  python2 menu.py
 ```
-<h3><b>Command in one line</b></h3>
+<h3><b>Copy & Paste</b></h3>
 
 ```
-
+pkg install python2 &&  git clone https://github.com/darkhunter141/Web-Hunter && cd Web-Hunter && python2 menu.py
 ```
 <br>
 <h3><b>Screenshot 1</b></h3>
