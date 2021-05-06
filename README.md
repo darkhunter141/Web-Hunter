@@ -22,13 +22,10 @@ Advanced Web Application Penetration testing tool &amp; Wordpress name finder an
 pkg install python2 &&  git clone https://github.com/darkhunter141/Web-Hunter && cd Web-Hunter && python2 menu.py
 ```
 <br>
-<h3><b>Screenshot 1</b></h3>
+<h3><b>Screenshot</b></h3>
 <br>
 <img src="">
 <br>
-<h3><b>Screenshot 2</b></h3>
-<br>
-<img src="">
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
 <li>  <i><a href="https://www.facebook.com/groups/428641821766559/?ref=share">Our Facebook Community</a></i></li>
