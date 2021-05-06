@@ -1,0 +1,69 @@
+# -*- coding: utf-8 -*-
+import os,sys,time
+os.system('clear')
+print ''
+print '''\033[91m                ``  ``...-...` ``                 
+            ` `-+ssmdyshhyysdmdhs/.```            
+          ``/oydy+:/m:+::+----yN+syyo:```         
+        `.omMso::/+//////////odms+:/ydy/```       
+      `.oydNNMo::````          `-oyhds+so:``      
+    ` :ss+ymo:`.                   .+///+++- `    
+   ``+syyy+.`  -.``           `...   `/oooo+: `   
+  ``+ssss-.    ::-``.`      ``....`    -+o+++: `  
+ ` :+sso..    `:-`.``        `  `-`     .++-:+- ` 
+  .+:yo--     .:/``           ` -. `     -+:.//`  
+` :++s+.      `-+`             `-.`.`     /-::-- `
+` -o:s--     `./:`              -:..`     -/.--: `
+``o-+s--     `-o.               ./-.      --:.:- `
+` -++o:-      .o:` `:-`    .:. `:/-`      ---:.- `
+` /-:oo``      -+:```     ````.::-`       ::..:- `
+ `.+:o/:-      `.//. ``  ``:.-/-.`       --:-/: ``
+ ` .:o-s-.      ``.:--``   -:..``       ././-.. . 
+  ` :/:/:/-`     ```-/`   `:`          ----:/: `  
+   ` .:++//:.`      `.:` `.`         .:::/:-. `   
+    ` ./:-+://:.       ``        `-:--:.:::. `    
+     ```-://:/+//-````     `   .-:/::+///:```     
+       ```:////+/+yso+o/-:oosss/+o///+/. ``       
+         ````.:+osyhdmssysyNmdhso/:-.```          
+            ````.:+oyhy+oohddys+:-`               
+                  `````....```                    '''
+
+
+def about (b) :
+  for word in b + '\n':
+      sys.stdout.write(word)
+      sys.stdout.flush()
+      time.sleep(0.03)
+
+yell='\033[93m'
+green= '\033[92m'  
+print ''
+print ''
+print ''
+about (green+ ' Author : Team Dark Hunter 141')
+print ''
+about (green+' Facebook Page :https://www.facebook.com/darkhunter141/ ')
+print ''
+about (green+ ' Youtube : Dark Hunter 141')
+print ''
+print (green+' Github : https://www.github.com/darkhunter141/')
+print ''
+about (green+ ' Aim : Fight For Islam And Humanity')
+print ''
+about ('\033[94m Hi Guys ಠ‿ಠ')
+about ('\033[94m We are Dark Hunter 141.Those who don’t do it for money, they just do it for people’s laughter.')
+print ''
+about ('\033[96m Devoloper : ')
+print ''
+about (yell+' Ashrafi Abir (DarkXploit)')
+print ''
+about (yell+' Tanvir Mahamud Shariful (Dark Wolf)')
+print ''
+
+print ''
+about ('\033[96m Special Thanks : ')
+print ''
+about (yell+' Team Darknet-haxor\n\n Termux Hacker Bd \n\n Htr Tech \n\n Fire Strom \n\n Guti Baba ')
+print ''
+about (green+' Guys Please Support Us'
+)
