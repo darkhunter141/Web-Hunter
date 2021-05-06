@@ -15,6 +15,10 @@ Advanced Web Application Penetration testing tool &amp; Wordpress name finder an
 ```
 ```
  python2 menu.py
+```
+<h3><b>Command in one line</b></h3>
+
+```
 
 ```
 <br>
