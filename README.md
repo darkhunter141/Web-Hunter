@@ -1,5 +1,5 @@
 # Web-Hunter
-Advanced Web Application Penetration testing tool &amp; Wordpress name finder and brute forcer Termux🔥
+Advanced Web Application Penetration testing tool &amp; Wordpress name finder and brute forcer Termux & it also works in kali Linux🔥
 <br>
 <h3><b>Installation : </b></h3>
 <br>
@@ -22,7 +22,7 @@ Advanced Web Application Penetration testing tool &amp; Wordpress name finder an
 pkg install python2 && git clone https://github.com/darkhunter141/Web-Hunter && cd Web-Hunter && python2 menu.py
 ```
 <br>
-<h3><b>Screenshot</b></h3>
+<h3><b>📸Screenshot</b></h3>
 <br>
 <img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
 <br>
