@@ -24,7 +24,7 @@ pkg install python2 && git clone https://github.com/darkhunter141/Web-Hunter && 
 <br>
 <h3><b>Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/Web-Hunter/main/IMG_20210506_134735.jpg">
 <br>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>
