@@ -77,7 +77,7 @@ def slowprint(s):
 
 def start(argv):
 	if len(sys.argv) < 2:
-		print Fore.WHITE+"Usage: python wpUsersScan.py URL \n"
+		print Fore.WHITE+"Usage:  python2 username.py link "
 		sys.exit(1)
 	url = argv[0]	
 	o = urlparse(url)
